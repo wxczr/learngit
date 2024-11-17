@@ -1,2 +1,2 @@
 # Hello, World! 示例程序
-print('Hello world')
+print('Hello world第二次')
